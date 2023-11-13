@@ -18,7 +18,7 @@ Các tính năng chính của dự án bao gồm:
 ### Cách cài đặt
 
 1. git clone https://github.com/lastonton/Histogram_Equallization_Tkinter_SourceCode.git
-2. Tạo thư mục histogram và iamges trong folder đã clone về
+2. Tạo thư mục histogram và images trong folder đã clone về
 3. Cài đặt các thư viên đã nêu ở yêu cầu hệ thống qua câu lệnh pip install
 - https://www.python.org/downloads/ (Python dowload)
 - pip install opencv-python==4.8.0
