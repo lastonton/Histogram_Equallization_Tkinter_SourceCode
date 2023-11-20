@@ -9,6 +9,8 @@ Các tính năng chính của dự án bao gồm:
 - Hỗ trợ cân bằng biểu đồ toàn cục cho hình ảnh xám.
 - Cung cấp một số tùy chọn để điều chỉnh kết quả cân bằng biểu đồ.
 - Được viết bằng Python và được tối ưu hóa để sử dụng hiệu quả.
+![image](https://github.com/lastonton/Histogram_Equallization_Tkinter_SourceCode/assets/138580872/5701764d-6597-4657-9846-f49f9c4a2e56)
+
 
 ## Hướng dẫn sử dụng
 
@@ -35,6 +37,7 @@ Các tính năng chính của dự án bao gồm:
 2. Chọn Run -> Starting Debugging hoặc F5 để khởi chạy ứng dụng
 
 ### Cách sử dụng
+![image](https://github.com/lastonton/Histogram_Equallization_Tkinter_SourceCode/assets/138580872/90b0bac5-2649-4e7d-bd14-20a890d4b061)
 
 1. Khởi động ứng dụng
 2. Nhấn chọn Select Image và chọn hình ảnh để thực hiện cân bằng mức xám
